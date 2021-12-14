@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="ok非凡视讯ok-200951.m3u",CCTV-13新闻
+http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv13/online.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="ok非凡视讯ok-200951.m3u",CCTV-1综合高清
+http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="ok非凡视讯ok-200951.m3u",CCTV13
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="ok非凡视讯ok-200951.m3u",凤凰中文
+http://116.199.5.51:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=190
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="家",凤凰中文台
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="家",凤凰卫视中文
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="家",凤凰资讯台
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="家",美食李子柒
+http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(1)",反转又反转!高智商的集合了
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752768-1099531752768-86436182472261632-2199063628992-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(1)",好莱坞挑大梁的史皇威尔
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752780-1099531752780-86436234011869184-2199063629016-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(1)",杰森·斯坦森:郭达是你吗
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752779-1099531752779-86436229716901888-2199063629014-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(1)",杰森斯坦森硬汉动作片
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752784-1099531752784-86436251191738368-2199063629024-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(1)",测试
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752774-1099531752774-86436208242065408-2199063629004-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(1)",看时紧张到手出汗的救援电影
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752777-1099531752777-86436221126967296-2199063629010-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(1)",经典高智商犯罪片
+http://121.51.249.99/txdirect.hls.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(1)",美食纪录片·饿了吗?
+http://121.51.249.99/txdirect.hls.huya.com/src/1423787851-1423787851-6115122256487120896-2847699158-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(2)",【经典】桃园结义三兄弟
+http://121.51.249.99/txdirect.hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(2)",新水hu·在下正是西公子!
+http://121.51.249.99/txdirect.hls.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(2)",滚滚长江东逝水
+http://121.51.249.99/txdirect.hls.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(6)",Han国高分动作片 刺激过瘾
+http://121.51.249.99/txdirect.hls.huya.com/src/1423782047-1423782047-6115097328496934912-2847687550-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(6)",【科幻系列】硬核浪漫
+http://121.51.249.99/txdirect.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(6)",带你吃遍美食
+http://121.51.249.99/txdirect.hls.huya.com/src/1199511990125-1199511990125-5223172181785051136-2399024103706-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(6)",生化危ji  女主吊打丧尸
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752748-1099531752748-86436096572915712-2199063628952-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(6)",高分爱情电影🎬
+http://121.51.249.99/txdirect.hls.huya.com/src/1444281068-1444281068-6203139953291952128-4657213132-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(6)",鬼哥说电影🎬
+http://121.51.249.99/txdirect.hls.huya.com/src/1199579186042-1199579186042-5511776447724781568-2399158495540-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(7)",【命案十三宗】十三宗真实案件
+http://121.51.249.99/txdirect.hls.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(7)",不要啊!秋香姐!
+http://121.51.249.99/txdirect.hls.huya.com/src/1199563481163-1199563481163-5444324506032144384-2399127085782-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(7)",大板牙说电影🎬
+http://121.51.249.99/txdirect.hls.huya.com/src/1872022160-1872022160-8040273954587279360-3744167776-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(7)",天下粮仓续作 再战贪官
+http://121.51.249.99/txdirect.hls.huya.com/src/1199578457528-1199578457528-5508647503920103424-2399157038512-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(7)",扁豆看电影2
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752811-1099531752811-86436367155855360-2199063629078-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(7)",最新 最hot 大大大片
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752778-1099531752778-86436225421934592-2199063629012-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(7)",歪果喜剧人也超有意思
+http://121.51.249.99/txdirect.hls.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(4)",天下粮仓续作 再战贪官
+http://121.51.249.99/txdirect.hls.huya.com/src/1199578457528-1199578457528-5508647503920103424-2399157038512-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新版本老虎牙(4)",美食李子柒
+http://121.51.249.99/txdirect.hls.huya.com/src/1199512837905-1199512837905-5226813369159254016-2399025799266-10057-A-0-1.m3u8
